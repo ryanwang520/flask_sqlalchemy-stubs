@@ -1,4 +1,4 @@
-# typing stubs for FlaskSqalchemy
+# typing stubs for FlaskSQLAchemy
 
 ## Install
 
